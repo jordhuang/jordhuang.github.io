@@ -28,6 +28,7 @@ twitter_username:
 github_username: 
 header_pages: 
   - photos.markdown
+  - writing.markdown
 future: true
 
 # Build settings
