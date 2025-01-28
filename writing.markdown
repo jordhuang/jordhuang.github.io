@@ -10,7 +10,7 @@ Jordan Huang, January 2025
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/misaki_satou.png" alt="Satou and Misaki meeting for the first time." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/misaki_satou.PNG" alt="Satou and Misaki meeting for the first time." width="65%"/>
   <figcaption>Satou and Misaki meeting for the first time.</figcaption>
 </figure>
 </center>
