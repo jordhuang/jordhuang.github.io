@@ -142,11 +142,16 @@ Satou’s realization is as equally shocking as it reveals a truism about life: 
 </figure>
 </center>
 
-It is for this reason that I like Welcome to the N.H.K. It would be too convenient for Misaki to be perfect. She has her own problems with insecurity—and she used Satou as a crutch to address it. But in the same way that the circumstances of their meeting and the seemingly unproductive emotions that they inflict on each other are not ideal, to each other they were what they needed in the moment. To contemplate on counterfactuals, on ideal circumstances, is fantasy at best and misleading at worst. In the end, they both learned and grew from the experience—and that is all you can ask for in life. 
+Heroes don’t exist. Every interaction two sides: each with its own agenda. The beauty of partnership is the possibility that through cooperation you and your partner can achieve more than would be possible by yourself. Misaki is not a supernatural force who saves Satou from his own destruction. If what you take away from the show is that you need to wait for your Misaki, you have misunderstood the point.  
 
-The anime ends with Misaki presenting Satou with a new contract. From now on, they will both be hostages to each other. In this way, they promise to stay alive, if for nothing at all but so the other may live. For those who have not watched the anime, there is much that takes place between the first and this final meeting, including themes that deal with suicide, depression, and codependency. 
+Misaki has her own problems—and she uses Satou as a crutch to address them. The circumstances of their meeting and the seemingly unproductive emotions that they inflict on each other are not ideal. To contemplate on counterfactuals, on ideal circumstances, to ask: what did I *actually* need? however, is the wrong way to think about it. Satou and Misaki were to each other what they needed in the moment. 
+
+Society structures our lives and choices. It furnishes us with a set of circumstances. All we can do is to try our best with what we have. In the end, Satou and Misaki learned and grew from the experience—and that is all you can ask for in life. 
+
+The anime ends with Misaki presenting Satou with a new contract. From now on, they will both be hostages to each other. In this way, they promise to stay alive, if for nothing at all but so the other may live. There is much that takes place between the first and final meeting which I have glossed over, including themes that deal with suicide, depression, and codependency. 
 
 My favorite moment is when, while reading the new contract, Satou comments how even though they have been through so much, none of their problems have really been solved. That although things seem better, they may very well return to their old ways. For now, though, he is hanging in there and will give it his best shot. 
+
 
 # Epilogue
 
