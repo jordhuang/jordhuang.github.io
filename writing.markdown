@@ -15,15 +15,15 @@ Jordan Huang, January 2025
 </figure>
 </center>
 
-It was the winter of 2017, and I was home for Christmas break. I had just completed my first semester of university at UC Berkeley and would be spending the next two weeks at home, in the confines my room, which I remember to be particularly moody. I have a memory of the pink walls being dark, almost grey, and the soft orange light sifting through my window blinds as day gave over to night. My room felt both oppressive and romantic that night. Open on my ThinkPad was VLC Media Player, the only source of light. Playing on it was Welcome to the N.H.K. It was my first watching it. Little did I know that what began in that moment would lead me six years later, in the summer of 2023, returning to the same emotions I felt that night, except now it was the anime in real life confronting me as a I walked through the streets of Tama-ku. 
+It was the winter of 2017, and I was home for Christmas break. I had just completed my first semester of university at UC Berkeley and would be spending the next two weeks at home, in the confines my room, which I remember to be particularly moody. I have a memory of the pink walls being dark, almost grey, and the soft orange light sifting through my window blinds as day gave over to night. My room felt both oppressive and romantic that night. Open on my ThinkPad was VLC Media Player, the only source of light. Playing on it was Welcome to the N.H.K. It was my first time watching it. Little did I know that what began in that moment would lead me six years later, in the summer of 2023, returning to the same emotions I felt that night, except now it was the anime in real life confronting me as a I walked through the streets of Tama-ku. 
 
-Tama-ku is one of the seven wards (subdivision of a city) of the city of Kawasaki in the Kanagawa Prefecture in Japan. It is just under an hour away west, by train, from Tokyo. Tama-ku is a small town that borders the Tama River. A smaller Hirase River that branches from the Tama River runs through it. A steep set of stairs with bright red handrails leads to the top of a hill on which the Gotanda Shrine sits. Here, there is a majestic view of the town and the Hirase River. As I stood there, I wondered how Satou would have felt looking at that view. In his deep anguish, perhaps he felt nothing. Perhaps he had lived there for so long by then that familiarity had bred into numbness. The thought of this made me sad. 
+Tama-ku is one of the seven wards (subdivision of a city) of the city of Kawasaki in the Kanagawa Prefecture in Japan. It is just under an hour west, by train, from Tokyo. Tama-ku is a small town that borders the Tama River. A smaller Hirase River that branches from the Tama River runs through it. A steep set of stairs with bright red handrails leads to the top of a hill on which the Gotanda Shrine sits. Here, there is a majestic view of the town and the Hirase River. As I stood there, I wondered how Satou would have felt looking at that view. In his deep anguish, perhaps he felt nothing. Perhaps he had lived there for so long by then that familiarity had bred into numbness. The thought of this made me sad. 
 
-Although not mentioned officially, Welcome to the N.H.K. draws much of its visual identity from this town. Many scenes are reproductions of locations in Tama-ku, including the park where Satou and Misaki have their lessons and their homes. Tatsuhiko Takimoto, the author of the novel that the anime is based on, used to live here as a hikikomori. 
+Although not officially mentioned, Welcome to the N.H.K. draws much of its visual identity from this town. Many scenes are reproductions of locations in Tama-ku, including the park where Satou and Misaki have their lessons and their homes. Tatsuhiko Takimoto, the author of the novel that the anime is based on, used to live here as a hikikomori. 
 
 It is well known that Welcome to the N.H.K. draws from its author’s own experience as a hikikomori. In a blog post[^1], Takimoto describes how much of his mental health stability can be attributed to his friend Uminekozawa Melon who, when he was living as a hikikomori in Tama-ku, would take him out to places on his motorbike. Perhaps he was a source of inspiration for Misaki and Yamazaki. 
 
-The first episode describes how Satou had dropped out of college and was living as a hikikomori and NEET, something which he is deeply ashamed of. He has developed a fear of going outside and spends all his time indoors. He lives off the money that his mother occasionally sends. The more time he spends isolated, the more that he his inferiority complex grows and his fear of the outside world. It is a bleak cycle, with seemingly little hope for escape.  
+Welcome to the N.H.K begins by introducing the character, Satou. He had had dropped out of college and was living as a hikikomori and NEET, something which he is deeply ashamed of. He has developed a fear of going outside and spends all his time indoors. He lives off the money that his mother occasionally sends. The more time he spends isolated, the more that his inferiority complex grows and his fear of the outside world. It is a bleak cycle, with seemingly little hope for escape.  
 
 It was a Tuesday when I had planned to explore Tama-ku.  I had left for it from Gotokuji Station at around 6 PM. I was worried because it was getting dark. I had spent the day distracted with exploring the Gotoku-ji Temple, the rumored birthplace of mineki-neko, a cat figurine that brings good luck to the owner. If you have been in any Chinese or Japanese restaurant, you have probably seen it. 
 
@@ -39,7 +39,8 @@ The Gotoku-ji Temple is joyful yet sullen. It is joyful because on top of the sh
 If you are wondering whether I purchased a cat, the answer is that I did. Did I leave it at the temple? No. My tendency for collection outweighed my spiritual interest. In fact, I don’t think I even made a wish. In that way, I clearly missed out on something about the temple, an experience which I can conceive of intellectually but not emotionally. I was a foreigner looking in from the outside, and perhaps I would never return there again. 
 
 As I walked past the entrance, I found myself going down a forested, stone path. The further I went, the more the voices of people died down until I was by myself. At the same time, a cloud drifted over the sun and suddenly it was much darker. At the end of the path was an old cemetery. The chilled wind brushed against my clothes as I looked at the tombs. Lesser known about the temple is that it also houses the tombs of the li clan, who were lords of the Hikone Domain during the Edo period.
-I was in the center of the temple now, past its exterior, and once again I was reminded of the dual role of temples. The alive are only one step from the dead. In the shadow of the clouds, the leaves took on a deep green. 
+
+I was in the center of the temple now, past its exterior. It occurred to me that just a hundred meters back, there was a crowd of people celebrating life. They were making wishes, creating dreams, and taking pictures of the cute cats. Every single person back there was walking down the road of life towards potential. Yet, where I stood, I saw the end of that road. If they were to walk towards where I stood, they would realize that the alive are only one step from the dead. In the shadow of the clouds, the leaves took on a deep green. 
 
 <center>
 <figure>
@@ -49,7 +50,6 @@ I was in the center of the temple now, past its exterior, and once again I was r
 </center>
 
 I arrived at Ikuta Station at 7 PM, which is in the center of Tama-ku. By now, the sun was already setting. Why had I been so drawn to Welcome to the N.H.K.? It was a question worth asking—after all, even six years later I found myself making the journey to see the locations of the anime in real life. 
-
 
 <center>
 <figure>
@@ -75,7 +75,7 @@ I wanted to go inside, but the cover fee was outrageous. This was deduced by loo
 
 A cute girl wants to “save” me from my asociality? In one, fell swoop she further rescues my dating life. She wants to help me—and is willing to put in all the work! It is all too convenient, and I propose, attractive for any person unwilling, perhaps because he is too afraid, to put in the work. For Satou, it is a surprisingly turn of events. A generous outside force has come in and yanked him out of his cycle. He is now on the path to recovery. As life would have it, however, nothing is that simple. 
 
-Across the manga café is a tall building where Satou and Yamazaki (Satou’s one and only friend who lives next door) eat popsicles while waiting for Misaki’s shift to end. They intend to follow Misaki home to find out who she really is. As they suspect, to wholly believe in her words—that her intention is to save Sato, and by now she has had numerous sessions with him at the park—is perhaps too naïve. 
+Across the manga café is a tall building where, in a future episode, Satou and Yamazaki (Satou’s one and only friend who lives next door) eat popsicles while waiting for Misaki’s shift to end. They intend to follow Misaki home to find out who she really is. As they suspect, to wholly believe in her words—that her intention is to save Sato, and by now she has had numerous sessions with him at the park—is perhaps too naïve. 
 
 <center>
 <figure>
@@ -86,7 +86,7 @@ Across the manga café is a tall building where Satou and Yamazaki (Satou’s on
 
 Upon returning home embarrassed after running into Misaki at the manga café when looking for a job, he dozes off and has fantasies of her. His sleep is suddenly interrupted by a ring on his doorbell. He tentatively heads towards the door—he has a feeling who it is—and finds a letter dropped off by Misaki who quickly runs away. Opening the letter, he finds an odd proposal: Misaki says that she has selected him for her project, and that he is to go to Mita Park at 9 PM that night. 
 
-Satou, in a leap of faith, makes the decision to go to the park. Life is determined by sharply diverging branches—as Satou would find out, the path he is about to embark will take him to places that with fear he could not reach. At the park is an infamous sign: the “beware of molesters” sign. Imagine my surprise when I discover that it’s real! 
+Satou, in a leap of faith, makes the decision to go to the park. Life is determined by sharply diverging branches—as Satou would find out, the path he is about to embark will take him to places that with fear he could not reach. At the park is an infamous sign: the “beware of molesters” sign. Imagine my surprise when I discovered that it’s real! 
 
 <center>
 <figure>
@@ -144,13 +144,13 @@ Satou’s realization is as equally shocking as it reveals a truism about life: 
 </figure>
 </center>
 
-Heroes don’t exist. Every interaction two sides: each with its own agenda. The beauty of partnership is the possibility that through cooperation you and your partner can achieve more than would be possible by yourself. Misaki is not a supernatural force who saves Satou from his own destruction. If what you take away from the show is that you need to wait for your Misaki, you have misunderstood the point.  
+Heroes don’t exist. Every interaction has two sides: each with its own agenda. The beauty of partnership is the possibility that through cooperation you and your partner can achieve more than would be possible by yourself. Misaki is not a supernatural force who saves Satou from his own destruction. If what you take away from the show is that you need to wait for your Misaki, you have misunderstood the point.  
 
 Misaki has her own problems—and she uses Satou as a crutch to address them. The circumstances of their meeting and the seemingly unproductive emotions that they inflict on each other are not ideal. To contemplate on counterfactuals, on ideal circumstances, to ask: what did I *actually* need? however, is the wrong way to think about it. Satou and Misaki were to each other what they needed in the moment. 
 
 Society structures our lives and choices. It furnishes us with a set of circumstances. All we can do is to try our best with what we have. In the end, Satou and Misaki learned and grew from the experience—and that is all you can ask for in life. 
 
-The anime ends with Misaki presenting Satou with a new contract. From now on, they will both be hostages to each other. In this way, they promise to stay alive, if for nothing at all but so the other may live. There is much that takes place between the first and final meeting which I have glossed over, including themes that deal with suicide, depression, and codependency. 
+The anime ends with Misaki presenting Satou with a new contract. From now on, they will both be hostages to each other. In this way, they promise to stay alive, if for nothing at all but so the other may live.[^2]
 
 My favorite moment is when, while reading the new contract, Satou comments how even though they have been through so much, none of their problems have really been solved. That although things seem better, they may very well return to their old ways. For now, though, he is hanging in there and will give it his best shot. 
 
@@ -183,4 +183,4 @@ I have one final suggestion for those interested in hearing the haunting, anxiou
 </center>
 
 [^1]: https://web.archive.org/web/20180828013840/https://tatsuhikotakimoto.com/2018/04/24/youtuber_melon/
-
+[^2]: There is much that takes place between the first and final meeting which I have glossed over, including themes that deal with suicide, depression, and codependency. 
