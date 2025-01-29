@@ -10,7 +10,7 @@ Jordan Huang, January 2025
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/misaki_satou.PNG" alt="Satou and Misaki meeting for the first time." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/misaki_satou.PNG" alt="Satou and Misaki meeting for the first time." width="80%"/>
   <figcaption>Satou and Misaki meeting for the first time.</figcaption>
 </figure>
 </center>
@@ -29,7 +29,7 @@ It was a Tuesday when I had planned to explore Tama-ku.  I had left for it from 
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/cat_temple.jpg" alt="Ceramic mineki-neko figurines in Gotoku-ji Temple." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/cat_temple.jpg" alt="Ceramic mineki-neko figurines in Gotoku-ji Temple." width="80%"/>
   <figcaption>Ceramic mineki-neko figurines in Gotoku-ji Temple.</figcaption>
 </figure>
 </center>
@@ -41,7 +41,7 @@ I was in the center of the temple now, past its exterior, and once again I was r
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/cat_temple_cemetery.jpg" alt="The cemetery within Gotoku-ji Temple." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/cat_temple_cemetery.jpg" alt="The cemetery within Gotoku-ji Temple." width="80%"/>
   <figcaption>The cemetery within Gotoku-ji Temple.</figcaption>
 </figure>
 </center>
@@ -51,7 +51,7 @@ I arrived at Ikuta Station at 7 PM, which is in the center of Tama-ku. By now, t
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/ikuta_station.jpg" alt="Ikuta Station in Tama-ku." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/ikuta_station.jpg" alt="Ikuta Station in Tama-ku." width="80%"/>
   <figcaption>Ikuta Station in Tama-ku.</figcaption>
 </figure>
 </center>
@@ -64,7 +64,7 @@ Satou and Misaki first meet when Misaki and her aunt knock on his door. They are
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/manga_cafe.jpg" alt="In the location that the manga café is modeled after is a bar with an expensive cover fee." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/manga_cafe.jpg" alt="In the location that the manga café is modeled after is a bar with an expensive cover fee." width="80%"/>
   <figcaption>In the location that the manga café is modeled after is a bar with an expensive cover fee.</figcaption>
 </figure>
 </center>
@@ -77,7 +77,7 @@ Across the manga café is a tall building where Satou and Yamazaki (Satou’s on
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/across_manga_cafe.jpg" alt="The building across from the manga café where Satou and Yamazaki wait for Misaki’s shift to end." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/across_manga_cafe.jpg" alt="The building across from the manga café where Satou and Yamazaki wait for Misaki’s shift to end." width="80%"/>
   <figcaption>The building across from the manga café where Satou and Yamazaki wait for Misaki’s shift to end.</figcaption>
 </figure>
 </center>
@@ -88,7 +88,7 @@ Satou, in a leap of faith, makes the decision to go to the park. Life is determi
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/infamous_sign.jpg" alt="The infamous “beware of molesters” sign." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/infamous_sign.jpg" alt="The infamous “beware of molesters” sign." width="80%"/>
   <figcaption>The infamous “beware of molesters” sign.</figcaption>
 </figure>
 </center>
@@ -97,7 +97,7 @@ At Mita Park, Misaki presents Satou with a contract. Upon signing, he is to agre
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/mita_park.jpg" alt="Mita Dai 1 Park in Tama-ku. " width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/mita_park.jpg" alt="Mita Dai 1 Park in Tama-ku. " width="80%"/>
   <figcaption>Mita Dai 1 Park in Tama-ku.</figcaption>
 </figure>
 </center>
@@ -108,7 +108,7 @@ There is a lovely scene in both the novel and anime where Misaki feeds a stray c
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/misaki_cat.jpg" alt="The three stooges of Mita Dai 1 Park. Look at that blob!" width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/misaki_cat.jpg" alt="The three stooges of Mita Dai 1 Park. Look at that blob!" width="80%"/>
   <figcaption>The three stooges of Mita Dai 1 Park. Look at that blob!</figcaption>
 </figure>
 </center>
@@ -121,7 +121,7 @@ It dawns on him that Misaki had likely been watching him the entire time. Watchi
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/misaki_mansion.jpg" alt="Misaki’s mansion in the anime versus real life. Interestingly, in reality it is two separate houses. In the anime, they combine the two silhouettes to form one big mansion." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/misaki_mansion.jpg" alt="Misaki’s mansion in the anime versus real life. Interestingly, in reality it is two separate houses. In the anime, they combine the two silhouettes to form one big mansion." width="80%"/>
   <figcaption>Misaki’s mansion in the anime versus real life. Interestingly, in reality it is two separate houses. In the anime, they combine the two silhouettes to form one big mansion.</figcaption>
 </figure>
 </center>
@@ -130,14 +130,14 @@ Satou’s realization is as equally shocking as it reveals a truism about life: 
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/satou_apartment_view.jpg" alt="View of Satou’s apartment from Misaki’s mansion. She could see right through his window." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/satou_apartment_view.jpg" alt="View of Satou’s apartment from Misaki’s mansion. She could see right through his window." width="80%"/>
   <figcaption>View of Satou’s apartment from Misaki’s mansion. She could see right through his window.</figcaption>
 </figure>
 </center>
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/satou_apartment.jpg" alt="Satou’s apartment. You must walk up a long hill to reach it. Parched from the summer heat, I bought a fruit tea from the vending machine." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/satou_apartment.jpg" alt="Satou’s apartment. You must walk up a long hill to reach it. Parched from the summer heat, I bought a fruit tea from the vending machine." width="80%"/>
   <figcaption>Satou’s apartment. You must walk up a long hill to reach it. Parched from the summer heat, I bought a fruit tea from the vending machine. </figcaption>
 </figure>
 </center>
@@ -156,21 +156,21 @@ I have one final suggestion for those interested in hearing the haunting, anxiou
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/satou_bridge.jpg" alt="Bridge crossing over Hirase River. " width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/satou_bridge.jpg" alt="Bridge crossing over Hirase River. " width="80%"/>
   <figcaption>Bridge crossing over Hirase River.</figcaption>
 </figure>
 </center>
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/satou_stairs.jpg" alt="Satou walking up a steep set of stairs. Although not shown in the anime, at the top is Gotoku-ji Shrine and a wonderful view of Tama-ku and Hirase River." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/satou_stairs.jpg" alt="Satou walking up a steep set of stairs. Although not shown in the anime, at the top is Gotoku-ji Shrine and a wonderful view of Tama-ku and Hirase River." width="80%"/>
   <figcaption>Satou walking up a steep set of stairs. Although not shown in the anime, at the top is Gotoku-ji Shrine and a wonderful view of Tama-ku and Hirase River. </figcaption>
 </figure>
 </center>
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/gotokuji_shrine.jpg" alt="Gotoku-ji Shrine and its view over Tama-ku and the Hirase River." width="65%"/>
+  <img src="/files/exploring welcome to the nhk in real life/gotokuji_shrine.jpg" alt="Gotoku-ji Shrine and its view over Tama-ku and the Hirase River." width="80%"/>
   <figcaption>Gotoku-ji Shrine and its view over Tama-ku and the Hirase River.</figcaption>
 </figure>
 </center>
