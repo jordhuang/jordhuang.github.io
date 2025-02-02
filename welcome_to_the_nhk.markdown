@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Writing
-permalink: /writing/
+permalink: /welcome-to-the-nhk/
 ---
 
 ## Exploring Welcome to the N.H.K. in Real Life
@@ -81,7 +81,7 @@ A cute girl wants to “save” me from my asociality? In one, fell swoop she fu
 
 One of the more interesting things for myself has been to consider how my understanding of Misaki has developed over time and how it relates to my life in context. When I first watched it, I was in a dark place. To me, she was my escape. The question that filled my head was: when will my Misaki come? This was, of course, a reflection of the fact that I was afraid. Because I was incapable of acting—or, at least, felt like it—Misaki to me meant something that came from the outside world and yanked me out of my present situation. As far as I could tell, it was the only way out.
 
-Across the manga café is a tall building where, in a future episode, Satou and Yamazaki (Satou’s one and only friend who lives next door) eat popsicles while waiting for Misaki’s shift to end. They intend to follow Misaki home to find out who she really is. As they suspect, to wholly believe in her words—that her intention is to save Sato, and by now she has had numerous sessions with him at the park—is perhaps too naïve. 
+Across the manga café is a tall building where, in a future episode, Satou and Yamazaki (Satou’s friend who lives next door) eat popsicles while waiting for Misaki’s shift to end. They intend to follow Misaki home to find out who she really is. As they suspect, to wholly believe in her words—that her intention is to save Sato, and by now she has had numerous sessions with him at the park—is perhaps too naïve. 
 
 <center>
 <figure>

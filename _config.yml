@@ -28,7 +28,7 @@ twitter_username:
 github_username: 
 header_pages: 
   - photos.markdown
-  - writing.markdown
+  - welcome_to_the_nhk.markdown
 future: true
 
 # Build settings
