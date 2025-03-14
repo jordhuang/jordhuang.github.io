@@ -165,7 +165,9 @@ The anime ends with Misaki presenting Satou with a new contract. It states they 
 
 # Epilogue
 
-I am now reminded of the term that I could not recall when describing my experience under the bicycle rack during the torrenting rain: mono no aware. I have grown since the first time I watched Welcome to the N.H.K. My deep appreciation for this is not without a sense of sadness at what has also been lost. 
+I am now reminded of the term that I could not recall when describing my experience under the bicycle rack 
+during the torrenting rain: *mono no aware*. I have grown since the first time I watched Welcome to the N.H.K. 
+My deep appreciation for this is not without a sense of sadness at what has also been lost. 
 
 I have one final suggestion for those interested in hearing the haunting, anxious, ecstasy of Welcome to the N.H.K. First, listen to the following two songs from the show’s soundtrack: Hitori no Tame no Lullaby by Pearl Brothers and then Youkoso! Hitori Bocchi by Pearl Brothers. Then, finish with PPP by Beach House.  
 
