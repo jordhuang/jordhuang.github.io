@@ -24,7 +24,7 @@ I am a physics PhD student working in Professor Chakram's group at Rutgers Unive
 Jordan Huang, Thomas J. DiNapoli, Gavin Rockwood, Ming Yuan, Prathyankara Narasimhan, Eesh Gupta, Mustafa Bal, Francesco Crisa, Sabrina Garattoni, Yao Lu, Liang Jiang, and Srivatsan Chakram.
 <a href="https://arxiv.org/abs/2503.10623">arXiv:2503.10623</a>.</p>
 
-# Conference Presentations
+# Conference presentations
 
 <p style="font-size:14px; "><b>Fast sideband control of a multimode bosonic memory with a weakly coupled transmon ancilla</b>
 <br>
