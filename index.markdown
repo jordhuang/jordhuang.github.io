@@ -8,6 +8,8 @@ layout: page_no_title
 
 Email: jah499@scarletmail.rutgers.edu
 
+<a href="https://scholar.google.com/citations?user=OBz-gQEAAAAJ&h">Google Scholar</a>
+
 ---
 
 
