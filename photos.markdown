@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_no_title
 title: Photos
 permalink: /photos/
 ---
@@ -9,3 +9,4 @@ To view on your phone/download, click:
 
 <iframe src="/files/Japan Summer 2023_compressed.pdf" width="100%" height="700px">
 </iframe>
+

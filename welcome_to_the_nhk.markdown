@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_no_title
 title: Writing
 permalink: /welcome-to-the-nhk/
 ---
