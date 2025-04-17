@@ -17,7 +17,7 @@ Email: jah499@scarletmail.rutgers.edu
 
 Hi! 
 
-I am a physics PhD student working in Professor Chakram's group at Rutgers University. I am interested in developing hardware for quantum computing. I am currently exploring the quantum control of a multimode circuit quantum electrodynamics-based device. I grew up in California and attended the University of California, Berkeley to study physics as an undergraduate. 
+I am a physics PhD student working in Professor Chakram's group at Rutgers University. I am interested in developing hardware for quantum computing. I am currently exploring how to use superconducting circuits to control the quantum states of bosonic modes in a superconducting cavity. The goal is to implement quantum error correction using hardware-efficient bosonic schemes. I grew up in California and attended the University of California, Berkeley to study physics as an undergraduate. 
 
 # Papers
 
