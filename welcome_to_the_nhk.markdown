@@ -30,7 +30,7 @@ It was a Tuesday when I had planned to explore Tama-ku.  I had left for it from 
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/cat_temple.jpg" alt="Ceramic mineki-neko figurines in Gotoku-ji Temple." width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/cat_temple.jpg" alt="Ceramic mineki-neko figurines in Gotoku-ji Temple." width="65%"/>
   <figcaption>Ceramic mineki-neko figurines in Gotoku-ji Temple.</figcaption>
 </figure>
 </center>
@@ -43,11 +43,11 @@ If you are wondering whether I purchased a cat, the answer is that I did. Did I 
  
 As I walked past the entrance, I found myself going down a forested, stone path. The further I went, the more the voices of people died down until I was by myself. At the same time, a cloud drifted over the sun and suddenly it was much darker. At the end of the path was an old cemetery. The chilled wind brushed against my clothes as I looked at the tombs. Lesser known about the temple is that it also houses the tombs of the li clan, who were lords of the Hikone Domain during the Edo period.
 
-I was in the center of the temple now, past its exterior. It occurred to me that just a hundred meters back, there was a crowd of people celebrating life. They were making wishes, creating dreams, and taking pictures of the cats. Every single person back there was walking down the road of life towards potential. Yet, where I stood, I saw the end of that road. The alive are, after all, only one step from the dead. In the shadow of the clouds, the leaves took on a deep green.
+I was in the center of the temple now, past its exterior. It occurred to me that just a hundred meters back, there was a crowd of people celebrating life. They were making wishes, creating dreams, and taking pictures. Every single person there was walking down the road of life towards potential. That potential was being inscribed into the cats. Yet, where I stood, I saw the end of that road. The alive are, after all, only one step from the dead. In the shadow of the clouds, the leaves took on a deep green.
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/cat_temple_cemetery.jpg" alt="The cemetery within Gotoku-ji Temple." width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/cat_temple_cemetery.jpg" alt="The cemetery within Gotoku-ji Temple." width="65%"/>
   <figcaption>The cemetery within Gotoku-ji Temple.</figcaption>
 </figure>
 </center>
@@ -56,7 +56,7 @@ I arrived at Ikuta Station at 7 PM, which is in the center of Tama-ku. By now, t
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/ikuta_station.jpg" alt="Ikuta Station in Tama-ku." width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/ikuta_station.jpg" alt="Ikuta Station in Tama-ku." width="65%"/>
   <figcaption>Ikuta Station in Tama-ku.</figcaption>
 </figure>
 </center>
@@ -70,7 +70,7 @@ Satou and Misaki first meet when Misaki and her aunt knock on his door. They are
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/manga_cafe.jpg" alt="In the location that the manga café is modeled after is a bar with an expensive cover fee." width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/manga_cafe.jpg" alt="In the location that the manga café is modeled after is a bar with an expensive cover fee." width="70%"/>
   <figcaption>In the location that the manga café is modeled after is a bar with an expensive cover fee.</figcaption>
 </figure>
 </center>
@@ -85,7 +85,7 @@ Across the manga café is a tall building where, in a future episode, Satou and 
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/across_manga_cafe.jpg" alt="The building across from the manga café where Satou and Yamazaki wait for Misaki’s shift to end." width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/across_manga_cafe.jpg" alt="The building across from the manga café where Satou and Yamazaki wait for Misaki’s shift to end." width="65%"/>
   <figcaption>The building across from the manga café where Satou and Yamazaki wait for Misaki’s shift to end.</figcaption>
 </figure>
 </center>
@@ -105,7 +105,7 @@ At Mita Park, Misaki presents Satou with a contract. Upon signing, he is to agre
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/mita_park.jpg" alt="Mita Dai 1 Park in Tama-ku. " width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/mita_park.png" alt="Mita Dai 1 Park in Tama-ku. " width="80%"/>
   <figcaption>Mita Dai 1 Park in Tama-ku.</figcaption>
 </figure>
 </center>
@@ -116,7 +116,7 @@ There is a lovely scene in both the novel and anime where Misaki feeds a stray c
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/misaki_cat.jpg" alt="The three stooges of Mita Dai 1 Park. Look at that blob!" width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/misaki_cat.jpg" alt="The three stooges of Mita Dai 1 Park. Look at that blob!" width="70%"/>
   <figcaption>The three stooges of Mita Dai 1 Park. Look at that blob!</figcaption>
 </figure>
 </center>
@@ -132,7 +132,7 @@ It dawns on him that Misaki had likely been watching him the entire time. Watchi
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/misaki_mansion.jpg" alt="Misaki’s mansion in the anime versus real life. Interestingly, in reality it is two separate houses. In the anime, they combine the two silhouettes to form one big mansion." width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/misaki_mansion.jpg" alt="Misaki’s mansion in the anime versus real life. Interestingly, in reality it is two separate houses. In the anime, they combine the two silhouettes to form one big mansion." width="70%"/>
   <figcaption>Misaki’s mansion in the anime versus real life. Interestingly, in reality it is two separate houses. In the anime, they combine the two silhouettes to form one big mansion.</figcaption>
 </figure>
 </center>
@@ -141,14 +141,14 @@ Satou’s realization is as equally shocking as it reveals a truism about life: 
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/satou_apartment_view.jpg" alt="View of Satou’s apartment from Misaki’s mansion. She could see right through his window." width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/satou_apartment_view.png" alt="View of Satou’s apartment from Misaki’s mansion. She could see right through his window." width="60%"/>
   <figcaption>View of Satou’s apartment from Misaki’s mansion. She could see right through his window.</figcaption>
 </figure>
 </center>
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/satou_apartment.jpg" alt="Satou’s apartment. You must walk up a long hill to reach it. Parched from the summer heat, I bought a fruit tea from the vending machine." width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/satou_apartment.jpg" alt="Satou’s apartment. You must walk up a long hill to reach it. Parched from the summer heat, I bought a fruit tea from the vending machine." width="60%"/>
   <figcaption>Satou’s apartment. You must walk up a long hill to reach it. Parched from the summer heat, I bought a fruit tea from the vending machine. </figcaption>
 </figure>
 </center>
@@ -161,34 +161,37 @@ So, who is Misaki, then? This was the question I was contemplating six years lat
 
 The anime ends with Misaki presenting Satou with a new contract. It states they will both be hostages to each other. In this way, they promise to stay alive, if for nothing at all but so the other may live.[^3] While reading the new contract—this is my favorite moment—Satou comments how even though they have been through so much, none of their problems have really been solved. That although things seem better, they may very well return to their old ways. For now, though, he is hanging in there and will give it his best shot.
 
-
-
-# Epilogue
-
-I am now reminded of the term that I could not recall when describing my experience under the bicycle rack 
-during the torrenting rain: *mono no aware*. I have grown since the first time I watched Welcome to the N.H.K. 
-My deep appreciation for this, however, is not without a sense of sadness at what has also been lost. 
-
-I have one final suggestion for those interested in hearing the haunting, anxious, ecstasy of Welcome to the N.H.K. First, listen to the following two songs from the show’s soundtrack: Hitori no Tame no Lullaby by Pearl Brothers and then Youkoso! Hitori Bocchi by Pearl Brothers. Then, finish with PPP by Beach House.  
-
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/satou_bridge.jpg" alt="Bridge crossing over Hirase River. " width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/satou_bridge.jpg" alt="Bridge crossing over Hirase River. " width="60%"/>
   <figcaption>Bridge crossing over Hirase River.</figcaption>
 </figure>
 </center>
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/satou_stairs.jpg" alt="Satou walking up a steep set of stairs. Although not shown in the anime, at the top is Gotoku-ji Shrine and a wonderful view of Tama-ku and Hirase River." width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/satou_stairs.jpg" alt="Satou walking up a steep set of stairs. Although not shown in the anime, at the top is Gotoku-ji Shrine and a wonderful view of Tama-ku and Hirase River." width="60%"/>
   <figcaption>Satou walking up a steep set of stairs. Although not shown in the anime, at the top is Gotoku-ji Shrine and a wonderful view of Tama-ku and Hirase River. </figcaption>
 </figure>
 </center>
 
 <center>
 <figure>
-  <img src="/files/exploring welcome to the nhk in real life/gotokuji_shrine.jpg" alt="Gotoku-ji Shrine and its view over Tama-ku and the Hirase River." width="80%"/>
+  <img src="/files/exploring welcome to the nhk in real life/gotokuji_shrine.jpg" alt="Gotoku-ji Shrine and its view over Tama-ku and the Hirase River." width="60%"/>
   <figcaption>Gotoku-ji Shrine and its view over Tama-ku and the Hirase River.</figcaption>
+</figure>
+</center>
+
+# Epilogue
+
+I am now reminded of the term that I could not recall when describing my experience under the bicycle rack during the torrenting rain: *mono no aware*. I have grown since the first time I watched Welcome to the N.H.K. My deep appreciation for this, however, is not without a sense of sadness at what has also been lost. 
+
+I have one final suggestion for those interested in hearing the haunting, anxious, ecstasy of Welcome to the N.H.K. First, listen to the following three songs from the show’s soundtrack: Hitori no Tame no Lullaby, Youkoso! Hitori Bocchi, and then Gosui ni Tarasu Tsuriito by Pearl Brothers. Finally, finish with PPP by Beach House. 
+
+<center>
+<figure>
+  <img src="/files/exploring welcome to the nhk in real life/nhk_ring.jpg" alt="A ring I commissioned in college. In episode 21, Yamazaki makes the comment: “A drama has a progressive plot, an emotional climax, and a resolution. But our lives aren’t like that. All we get day after day are a bunch of vague anxieties that are never really resolved” (Inscribed on the front). On the back: “Welcome to the NHK.” At the time, I had found myself hounded by this quote." width="50%"/>
+  <figcaption>A ring I commissioned in college. In episode 21, Yamazaki makes a comment: “A drama has a progressive plot, an emotional climax, and a resolution. But our lives aren’t like that. All we get day after day are a bunch of vague anxieties that are never really resolved” (Inscribed on the front). On the back: “Welcome to the NHK.” At the time, I had found myself hounded by this quote.</figcaption>
 </figure>
 </center>
 
