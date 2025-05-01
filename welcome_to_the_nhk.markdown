@@ -182,7 +182,7 @@ The anime ends with Misaki presenting Satou with a new contract. It states they 
 </figure>
 </center>
 
-# Epilogue
+### Epilogue
 
 I am now reminded of the term that I could not recall when describing my experience under the bicycle rack during the torrenting rain: *mono no aware*. I have grown since the first time I watched Welcome to the N.H.K. My deep appreciation for this, however, is not without a sense of sadness at what has also been lost. 
 
@@ -195,7 +195,7 @@ I have one final suggestion for those interested in hearing the haunting, anxiou
 </figure>
 </center>
 
-# What Does Tatsuhiko Takimoto Say?
+### What Does Tatsuhiko Takimoto Say?
 
 I have always wondered what Takimoto had intended to convey to the reader and how it reflected himself. He has a website[^4] where he sometimes posts updates on. I recently stumbled upon a trove of old blog posts, which I found illuminating. 
 

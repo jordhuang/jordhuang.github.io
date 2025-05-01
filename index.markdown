@@ -19,14 +19,14 @@ Hi!
 
 I am a physics PhD student working in the <a href="https://sites.rutgers.edu/chakram-lab/">Superconducting Quantum Systems</a> group at Rutgers University, with Professor Srivatsan Chakram. I am interested in developing hardware for quantum computing. I am currently exploring how to use superconducting circuits to control the quantum states of photons in a superconducting cavity. The goal is to implement quantum error correction using hardware-efficient bosonic schemes. I grew up in California and attended the University of California, Berkeley to study physics as an undergraduate. 
 
-# Papers
+## Papers
 
 <b>Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory (2025)</b> 
 <br>
 Jordan Huang, Thomas J. DiNapoli, Gavin Rockwood, Ming Yuan, Prathyankara Narasimhan, Eesh Gupta, Mustafa Bal, Francesco Crisa, Sabrina Garattoni, Yao Lu, Liang Jiang, and Srivatsan Chakram.
 <a href="https://arxiv.org/abs/2503.10623">arXiv:2503.10623</a>.
 
-# Conference presentations
+## Conference presentations
 
 <b>Fast sideband control of a multimode bosonic memory with a weakly coupled transmon ancilla</b>
 <br>
