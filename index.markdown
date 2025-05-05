@@ -26,7 +26,7 @@ I am a physics PhD student working in the <a href="https://sites.rutgers.edu/cha
 Jordan Huang, Thomas J. DiNapoli, Gavin Rockwood, Ming Yuan, Prathyankara Narasimhan, Eesh Gupta, Mustafa Bal, Francesco Crisa, Sabrina Garattoni, Yao Lu, Liang Jiang, and Srivatsan Chakram.
 <a href="https://arxiv.org/abs/2503.10623">arXiv:2503.10623</a>.
 
-## Conference presentations
+## Presentations
 
 <b>Fast sideband control of a multimode bosonic memory with a weakly coupled transmon ancilla</b>
 <br>
