@@ -157,7 +157,7 @@ Misaki is not a supernatural force that saves Satou from his own destruction. Mi
 
 Society structures our lives and choices. It furnishes us with a set of circumstances. All we can do is to try our best with what we have. In the end, Satou and Misaki learned and grew from the experience—and that is all you can ask for in life. 
 
-So, who is Misaki, then? This was the question I was contemplating six years later, in the summer of 2023, as I stood in the rain. My conclusion was this: Misaki represents something both outside, the context in which you live, as well as something already inside you. The synthesis of the two is what gives birth to growth. The answer to my original question—when will my Misaki come?—is that she is already here.[^2]  
+So, who is Misaki, then? This was the question I was contemplating six years later, in the summer of 2023, as I stood in the rain. My conclusion was this: Misaki represents something both outside, the context in which you live, as well as something already inside of you. The synthesis of the two is what gives birth to growth. The answer to my original question—when will my Misaki come?—is that she is already here.[^2]  
 
 The anime ends with Misaki presenting Satou with a new contract. It states they will both be hostages to each other. In this way, they promise to stay alive, if for nothing at all but so the other may live.[^3] While reading the new contract—this is my favorite moment—Satou comments how even though they have been through so much, none of their problems have really been solved. That although things seem better, they may very well return to their old ways. For now, though, he is hanging in there and will give it his best shot.
 
@@ -197,9 +197,9 @@ I have one final suggestion for those interested in hearing the haunting, anxiou
 
 ### What Does Tatsuhiko Takimoto Say?
 
-I have always wondered what Takimoto had intended to convey to the reader and how it reflected himself. He has a website[^4] where he sometimes posts updates on. I recently stumbled upon a trove of old blog posts, which I found illuminating. 
+I have always wondered what Takimoto had intended to convey and how it reflected himself. He has a website[^4] where he sometimes posts updates on. I recently stumbled upon a trove of old blog posts, which I found illuminating. 
 
-Unfortunately, he has deleted all his old blog posts. Luckily, many can be found on the Internet Archive[^5]. He was a prolific blogger, often posting more than once a week since at least 2015. The Internet Archive trail ends in 2017, which is when I presume he deleted his blogs. They are all written in Japanese, so I hope that my reading of Google Translate is accurate to what he meant to write.
+Unfortunately, he has deleted all his old blog posts. Luckily, many can be found on the Internet Archive[^5]. He was a prolific blogger, often posting more than once a week since at least 2015. It seems that he deleted his old blog in 2017, after which he replaced with his current one. They are all written in Japanese, so I hope that my reading of Google Translate is accurate to what he meant to write.
 
 Reading his blog, I developed an appreciation for how profoundly reflective the novel is of the author himself. In reading his blog and his descriptions of his life—and he is a very open person—I couldn’t help but realize how much in watching the show and reading the novel, I was really reading into Takimoto. He was acutely aware of this, to the point pain. In the first afterword of the English release of his novel (published in 2007), he writes, reproduced in full:
 
@@ -253,19 +253,23 @@ Reading his blog, I developed an appreciation for how profoundly reflective the 
 >
 >December, 2001
 
-I can only admire Takimoto for his bravery in putting out a work which, as much as it made so many people heard and understood, at the same time made him feel so naked. 
+I can only admire Takimoto for his bravery in putting out a work which, as much as it made so many people feel heard and understood, at the same time made him feel so naked. 
 
-He has a post[^6] where he describes how he originally got the idea to write the novel. He was walking home in the 2000s from Ikuta station to his apartment contemplating his next novel. He concluded that he wanted to write something that would inspire people like himself. The idea for the title Welcome to the N.H.K. came when he was watching Kōhaku Uta Gassen (a Japanese show where singers compete) at his parents’ house during the New Year holidays. 
+He has a post[^6] where he describes how he originally got the idea to write the novel. He was walking home in the 2000s from Ikuta station to his apartment contemplating his next novel. He concluded that he wanted to write something that would inspire people like himself. People who feel extremely lonely, but for some reason are terrified of interacting with people, leading them to stay inside their apartments. The idea for the title Welcome to the N.H.K. came when he was watching Kōhaku Uta Gassen (a Japanese show where singers compete) at his parents’ house during the New Year holidays. 
 
 He had been commissioned by a publishing company called Boiledeggs Online to write a weekly, serialized novel. The first story he submitted was rejected. He was glad it was, because his second submission, which was accepted, was of the infamous scene of Satou and Yamazaki in front of the elementary school. Indeed, this would make it into the novel and into the anime in episode 3.  
 
 In another post [^7], he talks about his interpretation of Misaki. He describes the idea of hoping for Misaki to appear as ineffective. To him, you will find your Misaki when you find yourself. What you want, you must first become. He details a mental visualization technique that he uses to achieve his goals—to find Misaki, in essence. In fact, he has released an English audio of a guided meditation to evoke Misaki.[^8]
 
-Finally, there is a post[^9] where he discusses what he feels were the failures of his writing. He describes his sense of failure for not being able to write the story he wanted to write. In particular, he had trouble writing about loneliness—because in doing so he was writing about himself. As a result, he introduces what he thinks were distractions in the story so that he didn’t have to deal with the core topic he wanted to write about—hence, the introduction of Misaki. It was interesting to read his feelings towards Misaki: that she was a distraction from a story which he hoped to write that concentrated on Satou’s loneliness. 
+Finally, there is a post[^9] where he discusses what he feels were the failures of his writing. He describes the sense of failure that has plagued him for years for not being able to write the story that he wanted to write. In particular, he had trouble writing about loneliness—because in doing so, he was writing about himself. The pain of doing so was too much. 
 
-It is interesting to understand Misaki in this way. She was what he needed to complete the story. Yet, she was also what prevented him from writing what he wanted to.   
+As a result, he introduces what he describes as distractions to the story. This is the sense in which he introduced Misaki. It was interesting to read his feelings towards her: that she was a distraction from a story which he hoped to write that focused on Satou’s loneliness. 
 
-Later, he concludes that perhaps it was not that bad of a story despite getting sidetracked—after all, life can often be sidetracked—and in that sense it was a realistic story. He is satisfied with the fact that the ending is ambivalent—Satou and Misaki’s problems have not been solved—because a story doesn’t need a perfect resolution. By ending it in this way, he enjoys that it was realistic and left room for future development. 
+It is interesting to understand Misaki in this way. She was what he needed to complete the story. Yet, she was also what prevented him from writing what he wanted to. This latter point isn’t to say that there was another way to write the story, however. This is the entire point of Misaki—that there was an ideal conception of a story, and from that Takimoto wrote something that turned out to be Welcome to the N.H.K.  
+
+Misaki is the defining motif of the story, and her raw authenticity, reflected in the reasons for her creation, is what made the story so intriguing and gripping. It is difficult for anyone to consume media that outputs raw emotion, especially if it deals with loneliness, anxiety, and depression. Misaki disarms the reader, drawing them in so that they can experience the emotion of the story. She plays this role for both the reader and the author.   
+
+At the end of the blog post, Takimoto concludes that perhaps it was not that bad of a story despite getting sidetracked—after all, life can often be sidetracked—and in that sense it was a realistic story. He is satisfied with the fact that the ending is ambivalent—Satou and Misaki’s problems have not been solved—because a story doesn’t need a perfect resolution. By ending it in this way, he enjoys that it was realistic and left room for future development. 
 
 He notes, however, that there was something that he wanted to say in the story but couldn’t. This is his message for anyone who finds themselves in a situation like Welcome to the N.H.K. (Google translated): 
 

@@ -28,6 +28,14 @@ Jordan Huang, Thomas J. DiNapoli, Gavin Rockwood, Ming Yuan, Prathyankara Narasi
 
 ## Presentations
 
+<b>Universal sideband control of a qudit encoded in an oscillator</b>
+<br>
+Jordan Huang, Thomas DiNapoli, Ethan Kasaba et al. (2026, March). [Presentation]. American Physical Society Global Physics Summit, Denver, CO, United States.
+
+<b>Universal Sideband Control of Qudits Encoded in Oscillators</b>
+<br>
+Jordan Huang, Thomas DiNapoli, Gavin Rockwood et al. (2025, December). [Poster]. Fermilab Quantum Symposium, Batavia, IL, United States. 
+
 <b>Fast sideband control of a multimode bosonic memory with a weakly coupled transmon ancilla</b>
 <br>
 Jordan Huang (2025, May). [Presentation]. Cornell University Department of Physics.
@@ -43,15 +51,3 @@ Jordan Huang, Thomas DiNapoli, Gavin Rockwood et al. (2024, July). [Poster]. Lab
 <b>Control of a long-lived multimode bosonic memory with a weakly coupled transmon ancilla</b>
 <br>
 Jordan Huang, Thomas DiNapoli, Eesh Gupta et al. (2024, March). [Presentation]. American Physical Society March Meeting, Minneapolis, MN, United States.
-
-<b>Realizing measurement-induced phase transitions in multimode circuit QED systems</b> 
-<br>
-Ahana Chakraborty, Shivam Patel, Jordan Huang et al. (2024, March). [Presentation]. American Physical Society March Meeting, Minneapolis, MN, United States. 
-
-<b>Fast Control of Multimode Cavities with Conditional Displacements</b>
-<br>
-Eesh Gupta, Thomas DiNapoli, Jordan Huang et al. (2023, March). [Presentation]. American Physical Society March Meeting, Las Vegas, NV, United States.
-
-<b>Suppression of quasiparticle poisoning in transmon qubits by gap engineering</b>
-<br>
-Plamen Kamenov, Thomas DiNapoli, Jordan Huang et al. (2023, March). [Presentation]. American Physical Society March Meeting, Las Vegas, NV, United States.
