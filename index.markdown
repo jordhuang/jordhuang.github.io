@@ -23,7 +23,7 @@ I am a physics PhD student working in the <a href="https://sites.rutgers.edu/cha
 
 <b>Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory (2025)</b> 
 <br>
-Jordan Huang, Thomas J. DiNapoli, Gavin Rockwood, Ming Yuan, Prathyankara Narasimhan, Eesh Gupta, Mustafa Bal, Francesco Crisa, Sabrina Garattoni, Yao Lu, Liang Jiang, and Srivatsan Chakram.
+Jordan Huang, Thomas J. DiNapoli, Gavin Rockwood, Ming Yuan, Prathyankara Narasimhan, Eesh Gupta, Mustafa Bal, Francesco Crisa, Sabrina Garattoni, Yao Lu, Liang Jiang, and Srivatsan Chakram. <a href="https://doi.org/10.1103/t4cv-y398">Physical Review X</a>. <a href="https://physics.aps.org/articles/v19/s29">APS Synopsis</a>.
 <a href="https://arxiv.org/abs/2503.10623">arXiv:2503.10623</a>.
 
 ## Presentations
