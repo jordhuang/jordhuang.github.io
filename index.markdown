@@ -21,10 +21,13 @@ I am a physics PhD student working in the <a href="https://sites.rutgers.edu/cha
 
 ## Papers
 
-<b>Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory (2025)</b> 
+<b>Fast Sideband Control of a Multimode Cavity Memory with Weak Dispersive Coupling to a Transmon (2026)</b> 
 <br>
-Jordan Huang, Thomas J. DiNapoli, Gavin Rockwood, Ming Yuan, Prathyankara Narasimhan, Eesh Gupta, Mustafa Bal, Francesco Crisa, Sabrina Garattoni, Yao Lu, Liang Jiang, and Srivatsan Chakram. <a href="https://doi.org/10.1103/t4cv-y398">Physical Review X</a>. <a href="https://physics.aps.org/articles/v19/s29">APS Synopsis</a>.
-<a href="https://arxiv.org/abs/2503.10623">arXiv:2503.10623</a>.
+Jordan Huang, Thomas J. DiNapoli, Gavin Rockwood, Ming Yuan, Prathyankara Narasimhan, Eesh Gupta, Mustafa Bal, Francesco Crisa, Sabrina Garattoni, Yao Lu, Liang Jiang, and Srivatsan Chakram. <a href="https://doi.org/10.1103/t4cv-y398">Physical Review X</a>. <a href="https://physics.aps.org/articles/v19/s29">APS Synopsis</a>. <a href="https://arxiv.org/abs/2503.10623">arXiv:2503.10623</a>.
+
+<b>Universal monitored dynamics in multimode bosonic systems (2026)</b> 
+<br>
+Shivam Patel, Catherine McCarthy, Ahana Chakraborty, Jordan Huang, Thomas J. DiNapoli, Romain Vasseur, Jedediah Pixley, Srivatsan Chakram <a href="https://arxiv.org/abs/2603.13125">arXiv:2603.13125</a>.
 
 ## Presentations
 
