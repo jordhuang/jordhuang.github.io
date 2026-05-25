@@ -21,6 +21,10 @@ I am a physics PhD student working in the <a href="https://sites.rutgers.edu/cha
 
 ## Papers
 
+<b>Universal Jaynes–Cummings Control of an Oscillator (2026)</b> 
+<br>
+Jordan Huang, Ethan Kasaba, Thomas J. DiNapoli, Tanay Roy, and Srivatsan Chakram. <a href="https://arxiv.org/abs/2605.18658">arXiv:2605.18658</a>.
+
 <b>Fast Sideband Control of a Multimode Cavity Memory with Weak Dispersive Coupling to a Transmon (2026)</b> 
 <br>
 Jordan Huang, Thomas J. DiNapoli, Gavin Rockwood, Ming Yuan, Prathyankara Narasimhan, Eesh Gupta, Mustafa Bal, Francesco Crisa, Sabrina Garattoni, Yao Lu, Liang Jiang, and Srivatsan Chakram. <a href="https://doi.org/10.1103/t4cv-y398">Physical Review X</a>. <a href="https://physics.aps.org/articles/v19/s29">APS Synopsis</a>. <a href="https://arxiv.org/abs/2503.10623">arXiv:2503.10623</a>.
