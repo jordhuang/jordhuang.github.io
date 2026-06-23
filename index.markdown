@@ -35,6 +35,10 @@ Shivam Patel, Catherine McCarthy, Ahana Chakraborty, Jordan Huang, Thomas J. DiN
 
 ## Presentations
 
+<b>Universal Jaynes--Cummings control of an oscillator</b>
+<br>
+Jordan Huang (2026, May). [Presentation]. U of I Quantum Circuit Conference, Champaign, IL, United States.
+
 <b>Universal sideband control of a qudit encoded in an oscillator</b>
 <br>
 Jordan Huang, Thomas DiNapoli, Ethan Kasaba et al. (2026, March). [Presentation]. American Physical Society Global Physics Summit, Denver, CO, United States.
