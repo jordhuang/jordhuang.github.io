@@ -17,7 +17,7 @@ Email: jah499@scarletmail.rutgers.edu
 
 Hi! 
 
-I am a physics PhD student working in the <a href="https://sites.rutgers.edu/chakram-lab/">Superconducting Quantum Systems</a> group at Rutgers University, with Professor Srivatsan Chakram. I am interested in quantum computing hardware. I am currently exploring how to use superconducting circuits to control the quantum states of photons in a superconducting cavity. The goal is to use these photons to store information and implement quantum error correction using hardware-efficient bosonic schemes. I grew up in California and attended the University of California, Berkeley to study physics as an undergraduate. 
+I am a physics PhD student working in the <a href="https://sites.rutgers.edu/chakram-lab/">Superconducting Quantum Systems</a> group at Rutgers University, with Professor Srivatsan Chakram. I am interested in quantum computing hardware. I am currently exploring how to use superconducting circuits to control the quantum states of photons in a superconducting cavity. The goal is to use these photons to store quantum information and implement hardware-efficient bosonic quantum error correction. I grew up in California and attended the University of California, Berkeley to study physics as an undergraduate. 
 
 ## Papers
 
@@ -34,6 +34,10 @@ Jordan Huang, Thomas J. DiNapoli, Gavin Rockwood, Ming Yuan, Prathyankara Narasi
 Shivam Patel, Catherine McCarthy, Ahana Chakraborty, Jordan Huang, Thomas J. DiNapoli, Romain Vasseur, Jedediah Pixley, Srivatsan Chakram <a href="https://arxiv.org/abs/2603.13125">arXiv:2603.13125</a>.
 
 ## Presentations
+
+<b>Universal Jaynes--Cummings control of an oscillator</b>
+<br>
+Jordan Huang, Ethan Kasaba, Thomas DiNapoli, et al. (2026, July). [Poster]. Laboratory for Physical Sciences Quantum Computing Program Reviews, College Park, MD, United States.
 
 <b>Universal Jaynes--Cummings control of an oscillator</b>
 <br>
