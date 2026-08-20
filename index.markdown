@@ -13,7 +13,7 @@ Email: jah499@scarletmail.rutgers.edu
 ---
 
 
-<img src="/files/Jordan Huang.jpg" alt="Jordan Huang" width="40%" align="right" style="padding:15px;"/>
+<img src="/files/Jordan Huang.jpg" alt="Jordan Huang" width="37.5%" align="right" style="padding:15px;"/>
 
 Hi! 
 
