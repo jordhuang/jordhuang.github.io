@@ -84,7 +84,6 @@ html {
   width: 100%;
   height: auto;
   object-fit: contain;
-  transition: filter 220ms ease;
 }
 
 .photo-card span {
@@ -92,16 +91,11 @@ html {
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 34px 12px 10px;
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.72));
+  padding: 12px 12px 10px;
   font-size: inherit;
   opacity: 0;
   transform: translateY(5px);
   transition: opacity 180ms ease, transform 180ms ease;
-}
-
-.photo-card:hover img {
-  filter: brightness(0.9);
 }
 
 .photo-card:hover span,

@@ -296,11 +296,9 @@ html { overflow-y: scroll; scrollbar-gutter: stable; }
 
 .photo-card { position: relative; min-width: 0; padding: 0; overflow: hidden; display: inline-block; width: 100%; margin: 0 0 12px; break-inside: avoid; page-break-inside: avoid; vertical-align: top; border: 0; border-radius: 0; background: #fff; color: #fff; cursor: zoom-in; font: inherit; text-align: left; }
 
-.photo-card img { display: block; width: 100%; height: auto; object-fit: contain; transition: filter 220ms ease; }
+.photo-card img { display: block; width: 100%; height: auto; object-fit: contain; }
 
-.photo-card span { position: absolute; right: 0; bottom: 0; left: 0; padding: 34px 12px 10px; background: linear-gradient(transparent, rgba(0, 0, 0, 0.72)); font-size: inherit; opacity: 0; transform: translateY(5px); transition: opacity 180ms ease, transform 180ms ease; }
-
-.photo-card:hover img { filter: brightness(0.9); }
+.photo-card span { position: absolute; right: 0; bottom: 0; left: 0; padding: 12px 12px 10px; font-size: inherit; opacity: 0; transform: translateY(5px); transition: opacity 180ms ease, transform 180ms ease; }
 
 .photo-card:hover span, .photo-card:focus-visible span { opacity: 1; transform: translateY(0); }
 
