@@ -1,7 +1,7 @@
 ---
 layout: page_no_title
-title: Photos
-permalink: /photos/
+title: Japan
+permalink: /japan/
 ---
 
 To view on your phone/download, click: 

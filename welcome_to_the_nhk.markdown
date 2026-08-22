@@ -4,7 +4,7 @@ title: Writing
 permalink: /welcome-to-the-nhk/
 ---
 
-## Exploring Welcome to the N.H.K. in Real Life
+# Exploring Welcome to the N.H.K. in Real Life
 
 Jordan Huang, January 2025
 

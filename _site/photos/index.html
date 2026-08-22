@@ -29,22 +29,114 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/photos/">Photos</a><a class="page-link" href="/welcome-to-the-nhk/">Writing</a></div>
+        <div class="trigger"><a class="page-link" href="/photos/">Photos</a><a class="page-link" href="/japan/">Japan</a><a class="page-link" href="/welcome-to-the-nhk/">Writing</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+      <div class="wrapper wrapper--wide">
         <article class="post">
 
   <div class="post-content">
-    <p>To view on your phone/download, click:</p>
-<ul>
-  <li><a href="/files/Japan Summer 2023_compressed.pdf" download="">Here</a> (73 MB, compressed)</li>
-</ul>
+    <section class="photo-gallery" data-photo-gallery aria-labelledby="photo-gallery-title">
+  <header class="photo-gallery__intro">
+    <!--<p class="photo-gallery__eyebrow">Photo journal</p>-->
+    <h1 id="photo-gallery-title">Photos</h1>
+    <p>Select a photograph to see a larger version.</p>
+  </header>
 
-<iframe src="/files/Japan Summer 2023_compressed.pdf" width="100%" height="700px">
-</iframe>
+  <div class="photo-gallery__grid" data-gallery-grid>
+    <button class="photo-card" type="button"
+      data-full="/files/R0004328.jpg"
+      data-alt=""
+      data-caption="">
+      <img src="/files/R0004328.jpg" alt="" loading="lazy">
+      <span></span>
+    </button>
+	
+    <button class="photo-card" type="button"
+      data-full="/files/R0004330.jpg"
+      data-alt=""
+      data-caption="">
+      <img src="/files/R0004330.jpg" alt="" loading="lazy">
+      <span></span>
+    </button>
+	
+	<button class="photo-card" type="button"
+      data-full="/files/R0004323.jpg"
+      data-alt=""
+      data-caption="">
+      <img src="/files/R0004323.jpg" alt="" loading="lazy">
+      <span></span>
+    </button>
+	
+	<button class="photo-card" type="button"
+      data-full="/files/R0004339.jpg"
+      data-alt=""
+      data-caption="">
+      <img src="/files/R0004339.jpg" alt="" loading="lazy">
+      <span></span>
+    </button>
+	
+	<button class="photo-card" type="button"
+      data-full="/files/R0004507.jpg"
+      data-alt=""
+      data-caption="">
+      <img src="/files/R0004507.jpg" alt="" loading="lazy">
+      <span></span>
+    </button>
+	
+	<button class="photo-card" type="button"
+      data-full="/files/R0004424.jpg"
+      data-alt=""
+      data-caption="">
+      <img src="/files/R0004424.jpg" alt="" loading="lazy">
+      <span></span>
+    </button>
+	
+	<button class="photo-card" type="button"
+      data-full="/files/R0004412.jpg"
+      data-alt=""
+      data-caption="">
+      <img src="/files/R0004412.jpg" alt="" loading="lazy">
+      <span></span>
+    </button>
+	
+	<button class="photo-card" type="button"
+      data-full="/files/R0004409.jpg"
+      data-alt=""
+      data-caption="">
+      <img src="/files/R0004409.jpg" alt="" loading="lazy">
+      <span></span>
+    </button>
+	
+  </div>
 
+  <div class="photo-viewer" data-gallery-view hidden tabindex="-1" aria-live="polite">
+    <figure class="photo-viewer__figure">
+      <div class="photo-viewer__topbar">
+        <div class="photo-viewer__controls" aria-label="Photograph navigation">
+          <span class="photo-viewer__status">
+            <button type="button" data-gallery-close>Show thumbnails</button>
+            <span data-gallery-count></span>
+          </span>
+          <span class="photo-viewer__step">
+            <button type="button" data-gallery-previous>Previous</button>
+            <span aria-hidden="true">/</span>
+            <button type="button" data-gallery-next>Next</button>
+          </span>
+        </div>
+        <figcaption data-gallery-caption></figcaption>
+      </div>
+      <img data-gallery-image alt="">
+    </figure>
+  </div>
+
+  <noscript>
+    <p class="photo-gallery__notice">JavaScript is required for the larger photograph view.</p>
+  </noscript>
+</section>
+
+<script src="/assets/js/photo-gallery.js" defer></script>
 
   </div>
 

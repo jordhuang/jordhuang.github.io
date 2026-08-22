@@ -27,7 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
 header_pages: 
-  - photos.markdown
+  - photos.html
+  - japan.markdown
   - welcome_to_the_nhk.markdown
 future: true
 
